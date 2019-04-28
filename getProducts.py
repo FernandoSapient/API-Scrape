@@ -1,7 +1,6 @@
 #author: Jonathan Bandes
 #date: april, 2019
 
-
 import bs4 as bs
 import urllib.request
 
