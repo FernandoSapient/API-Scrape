@@ -1,3 +1,6 @@
+#author: Jonathan Bandes
+#date: april, 2019
+
 from bs4 import BeautifulSoup
 import re
 import requests
